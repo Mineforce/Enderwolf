@@ -1,0 +1,16 @@
+[
+{
+  "modid": "enderwolf",
+  "name": "EnderWolf",
+  "description": "EnderWolf Modifikation für ArazhulHD",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "https://twitter.com/DEMineforce",
+  "updateUrl": "https://twitter.com/DEMineforce",
+  "authorList": ["Mineforce"],
+  "credits": "Texturen beinhalten Elemente vom Arazhul_HD Skin, Enderman und Wolf",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
